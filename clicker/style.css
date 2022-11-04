@@ -1,5 +1,5 @@
 body {
-    scrolling:no;
+    overflow:hidden;
 }
 
 iframe {
@@ -7,4 +7,5 @@ iframe {
     z-index:1;
     top:0px;
     left:0px;
+    width: 115vw;
 }
