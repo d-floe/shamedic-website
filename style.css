@@ -1,4 +1,4 @@
-  body {
+body {
     background-image: url("images/bg.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -6,13 +6,13 @@
     background-position: center;
     height: 100vh;
     margin: 0;
-  }
+}
 
-    .logo {
-         margin: auto;
-         display:block;
-         width:95%;
-         max-width: 50rem;
+.logo {
+    margin: auto;
+    display:block;
+    width:95%;
+    max-width: 50rem;
 }
 
 header {
